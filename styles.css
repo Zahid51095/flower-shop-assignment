@@ -58,3 +58,73 @@ main {
     padding: 240px;
     background-color: #FFF;
 }
+
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 24px;
+   
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#our-featured-flowers {
+    padding: 24px 240px 48px 240px;
+}
+
+.flowers-container{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    margin: 110px 78px 0px 78px;
+}
+
+.flowers{
+    padding: 34px;
+  
+
+}
+
+.flower1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top: 110px;
+    padding-right: 78px;
+    padding-left: 76px;
+    
+}
+
+.flower2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding-top: 117px;
+    padding-right: 47px;
+    padding-bottom: 51px;
+    padding-left: 47px;
+    
+}
+
+.flower3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding-top: 67px;
+    padding-right: 75px;
+    padding-bottom: 0px;
+    padding-left: 75px;
+}
+
+.flower-name{
+    padding-top: 32px;
+    text-align: center;
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
