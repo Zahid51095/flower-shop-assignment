@@ -32,8 +32,7 @@
 }
 
 .banner-img{
-    width: 635px;
-    height: 800px;
+    width: 500px;
     padding-top: 50px;
     
 }
@@ -71,6 +70,58 @@
 
 }
 
-.banner-photo{
-    padding-bottom: 0px;
+.feature-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+
+.feature-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+
+#feature-flower-description{
+    padding: 30px 150px;
+}
+
+.feature-container{
+    display: flex;
+    
+}
+
+.img1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 20px 18px 0px 16px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+.img2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 37px 17px 11px 17px;
+    margin-right: 20px;
+}
+
+.img3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 17px 15px 0px 15px;
+}
+
+.features-name{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
 }
